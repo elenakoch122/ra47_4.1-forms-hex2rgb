@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vt8iwmg7uo99jhfj?svg=true)](https://ci.appveyor.com/project/elenakoch122/ra47-4-1-forms-hex2rgb)
+
+GitHub Pages: https://elenakoch122.github.io/ra47_4.1-forms-hex2rgb
+
 Конвертер цветов из HEX в RGB
 ===
 
