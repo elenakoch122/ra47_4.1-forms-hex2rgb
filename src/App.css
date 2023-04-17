@@ -1,0 +1,30 @@
+.converter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #eee;
+}
+
+.converter__hex, .converter__rgb {
+  width: 200px;
+  padding: 16px 32px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.converter__hex {
+  margin-bottom: 8px;
+  color: #332d2b;
+  border: none;
+}
+
+.converter__hex:focus {
+  outline: none;
+}
+
+.converter__rgb {
+  color: #fff;
+  background-color: #444;
+}
